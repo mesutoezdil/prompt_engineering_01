@@ -48,11 +48,6 @@ go run main.go
 
 11. Experiment with different questions by modifying the query in the `main()` function of `main.go`.
 
-Here's a template you can use for your README.md:
-
-
-
-
 
 # Prompt Engineering Project
 
