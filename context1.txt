@@ -1,0 +1,1 @@
+In July 2024, we added a new endpoint /v2/analyze to our API, expanding its capabilities for data analysis.
